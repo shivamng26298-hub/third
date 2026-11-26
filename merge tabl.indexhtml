@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="fav icon" href="https://thumbs.dreamstime.com/b/funny-imge-happy-monkey-taking-selfie-surrounded-bananas-image-created-ai-generative-328552834.jpg">
+</head>
+<body>
+    
+<table border="100%">
+    <tr>
+        <th>Heading</th>
+        <th>Name</th>
+        <th>id </th>
+        <th>Roll No</th>
+        <th>Department</th>
+    </tr>
+    <tr>
+        <td>Student</td>
+        <td>John Doe</td>
+        <td>1</td>
+        <td>12345</td>
+        <td>Computer Science</td>
+    </tr>
+    <tr>
+        <td>Student</td>
+        <td>Jane Smith</td>
+        <td>2</td>
+        <td>67890</td>
+        <td>Information Technology</td>
+</table>
+
+
+</body>
+</html>
